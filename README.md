@@ -41,8 +41,3 @@ Exclude shipping items from product rankings, stock the top products ahead of th
 
 [View the project](https://github.com/pratiktak2004-cyber/Category-Analytics)
 ---
-
-## More projects
-
-- [Category Analytics](https://github.com/pratiktak2004-cyber/Category-Analytics)
-- [Supply Chain Logistics Efficiency Tracker](https://github.com/pratiktak2004-cyber/Supply-Chain-Logistics-Efficiency-Tracker
