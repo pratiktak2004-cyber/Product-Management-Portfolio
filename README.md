@@ -43,11 +43,4 @@ A sales leader needs to know which categories and channels drive profit, and whi
 ## More projects
 
 - [Category Analytics](https://github.com/pratiktak2004-cyber/Category-Analytics)
-- [Supply Chain Logistics Efficiency Tracker](https://github.com/pratiktak2004-cyber/Supply-Chain-Logistics-Efficiency-Tracker)
-
----
-
-## Contact
-
-Email: your-email@example.com
-LinkedIn: https://linkedin.com/in/your-profile
+- [Supply Chain Logistics Efficiency Tracker](https://github.com/pratiktak2004-cyber/Supply-Chain-Logistics-Efficiency-Tracker
