@@ -41,3 +41,4 @@ Exclude shipping items from product rankings, stock the top products ahead of th
 
 [View the project](https://github.com/pratiktak2004-cyber/Category-Analytics)
 ---
+Last updated: Nov 2026
