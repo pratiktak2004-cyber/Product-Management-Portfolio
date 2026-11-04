@@ -19,25 +19,27 @@ Final-year B.Tech student applying for the P&G Product Management Internship. I 
 
 ---
 
-## Featured project: FMCG Sales Performance
+## Featured project: Category Analytics
 
-**Problem**
-A sales leader needs to know which categories and channels drive profit, and which do not.
+### Problem
+A category manager needs to know which products, countries and months drive revenue, so the team knows where to focus.
 
-**Insight**
-- [Finding 1, e.g. "Top 3 categories drive XX% of profit"]
-- [Finding 2]
+### Insight
+- Total revenue was about 4.15M.
+- The UK drives about 86% of revenue (3.57M). The next largest market is under 3%, so the business depends heavily on one country.
+- The top real products are the Regency Cakestand 3 Tier and the White Hanging Heart T-Light Holder.
+- DOTCOM POSTAGE and POSTAGE appear in the Top 10 but are shipping charges, not products, so they distort the ranking.
+- Revenue peaks in mid-to-late 2011, which suggests strong seasonality.
 
-**Recommendation**
-[One or two actions, e.g. "Reduce discounts on X, invest more in Y"]
+### Recommendation
+Exclude shipping items from product rankings, stock the top products ahead of the peak months, and test growth in the next largest European markets to reduce reliance on the UK.
 
-**Roadmap**
-- Now: [quick fix]
-- Next: [follow-up]
-- Later: [bigger bet]
+### Roadmap
+- Now: remove postage items from the Top 10 and re-check the ranking.
+- Next: plan stock for the top products before the peak months.
+- Later: track each country's revenue share monthly and set a target to grow non-UK sales.
 
-[View the project](https://github.com/pratiktak2004-cyber/FMCG-Sales-Performance-PowerBI)
-
+[View the project](https://github.com/pratiktak2004-cyber/Category-Analytics)
 ---
 
 ## More projects
